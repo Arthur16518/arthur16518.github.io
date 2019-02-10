@@ -1,15 +1,10 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/Arthur16518/arthur16518.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Some text about me.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Interests
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Some text about my interests.
 
 # Header 1
 ## Header 2
