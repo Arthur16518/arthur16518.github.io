@@ -2,7 +2,7 @@
 
 Some text about me.
 
-### Interests
+## Interests
 
 Some text about my interests.
 
