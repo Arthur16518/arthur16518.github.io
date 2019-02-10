@@ -10,5 +10,7 @@ Some text about me.
 
 ## Contact me
 ArturoSergio2002@yandex.by
+
 artur.ik16518@gmail.com
+
 [VK](https://vk.com/vasilev2002)
