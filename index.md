@@ -9,6 +9,6 @@ Some text about me.
 - **Computer graphics.** I like to create any things on the computer that require creativity.
 
 ## Contact me
-###   ArturoSergio2002@yandex.by
-###   artur.ik16518@gmail.com
-###   [VK](https://vk.com/vasilev2002)
+ArturoSergio2002@yandex.by
+artur.ik16518@gmail.com
+[VK](https://vk.com/vasilev2002)
