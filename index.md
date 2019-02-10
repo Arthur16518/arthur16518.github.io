@@ -7,6 +7,7 @@ My friends and acquaintances often highlight such my qualities as:
  - **Perseverance.** I am able to sit at work for a long time, without stopping, to be patient in many classes. 
  - **Responsibility.** I always take my work seriously, especially when people rely on me.
 
+I think to myself that I am a perfectionist. I can spend a lot of time to bring everything to perfection. The feeling that I did everything perfectly raises my mood and calms me down.
 
 ## Interests
 
