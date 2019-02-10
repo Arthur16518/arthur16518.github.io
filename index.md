@@ -1,6 +1,6 @@
 ## About me
 
-Some text about me.
+At the moment I am a 2nd year student of Minsk Radiotechnical College where I get a programmer education. I have a good command of technologies such as HTML and CSS, Delphi and also the basics of JavaScript and C#. I have good skills in Adobe Photoshop, Adobe Illustrator, Adobe Animate, Adobe Premiere Pro, Adobe Dreamweaver, CorelDraw and AutoCad LT.
 
 ## Interests
 
