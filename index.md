@@ -6,9 +6,7 @@ Some text about me.
 
 Some text about my interests.
 
-# Header 1
-## Header 2
-### Header 3
+## Contact me
 
 - Bulleted
 - List
