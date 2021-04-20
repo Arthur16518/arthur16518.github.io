@@ -33,16 +33,48 @@ Technologies used:
 - CSS
 - JavaScript + AJAX library
 
+### Start page with sign-in and sign-up forms
+*[you can check this page here](https://arthur16518.github.io/Repair-Planner-login-page)*
+
+![Start page](images/repair planner login.png)
+
+### Page with main functionality
+
+![Start page](images/repair planner home.png)
+
 ## Stationery Shop
 *[(link to a repository)](https://github.com/Arthur16518/Stationery-Shop)*
 
-Stationery online shop is the course project for databases subject.
+Stationery online shop is the course project for databases subject. The website has functionality for content management and was made by MVC pattern on pure PHP.
 Technologies used:
 - PHP + PHPMailer library
 - HTML
 - CSS
 - JavaScript
-![home page](images/stationery shop 1.png)
+
+### Home page
+
+![Home page](images/stationery shop 1.png)
+
+### Log-in form
+
+![Log-in form](images/stationery shop 2.png)
+
+### Catalog
+
+![Catalog](images/stationery shop 3.png)
+
+### Product description
+
+![Product description](images/stationery shop 4.png)
+
+### Cart page
+
+![Cart page](images/stationery shop 5.png)
+
+### CMS-page
+
+![CMS-page](images/stationery shop 6.png)
 
 # Contact me
 
