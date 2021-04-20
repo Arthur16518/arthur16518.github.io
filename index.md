@@ -42,6 +42,7 @@ Technologies used:
 - HTML
 - CSS
 - JavaScript
+![home page](images/stationery shop 1.png)
 
 # Contact me
 
