@@ -22,7 +22,26 @@ I think to myself that I am a perfectionist. I can spend a lot of time bringing 
 
 # My projects
 
+## Repair Planner
+*[(link to a repository)](https://github.com/Arthur16518/Repair-Planner)*
 
+This is the course project for a program design subject. The main objective of this project was to use OOP and a database. I implemented this task in the form of a website.
+Technologies used:
+- ASP.NET Core MVC
+- Entity Framework + Microsoft SQL
+- HTML
+- CSS
+- JavaScript + AJAX library
+
+## Stationery Shop
+*[(link to a repository)](https://github.com/Arthur16518/Stationery-Shop)*
+
+Stationery online shop is the course project for databases subject.
+Technologies used:
+- PHP + PHPMailer library
+- HTML
+- CSS
+- JavaScript
 
 # Contact me
 
