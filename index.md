@@ -23,6 +23,6 @@ I think to myself that I am a perfectionist. I can spend a lot of time bringing 
 
 [artur.ik16518@gmail.com](mailto:artur.ik16518@gmail.com)
 
-[Telegram](t.me/str165)
+[Telegram](https://t.me/str165)
 
 [+375 44 590 22 21](tel:+375445902221)
