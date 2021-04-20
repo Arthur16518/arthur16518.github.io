@@ -1,6 +1,11 @@
 # About me
 
-At the moment I am a 4th-year student of Minsk Radioengineering College where I get a programmer education. I have a good command of technologies such as HTML and CSS, Delphi and also the basics of JavaScript and C#. I have good skills in Adobe Photoshop, Adobe Illustrator, Adobe Animate, Adobe Premiere Pro, Adobe Dreamweaver, CorelDraw and AutoCad LT.
+At the moment I am a 4th-year student of Minsk Radioengineering College where I get a programmer education. During my studies, I managed to try a lot of technologies. I have been making such things as
+- desktop applications (*Windows Forms*, *WPF*)
+- back-end for websites (*ASP.NET Core MVC*, *PHP*)
+- databases (*Entity Framework* + *MS SQL*, *MySQL*)
+- client-side for websites (*HTML*, *CSS*, *JavaScript* with libraries *jQuery* and *SVG.js*)
+- mobile games (*Unity*)
 
 My friends and acquaintances often highlight such my qualities as:
  - **Creativity.** Often I can come up with and create something non-standard and unusual that other people might like. 
